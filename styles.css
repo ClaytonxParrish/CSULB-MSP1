@@ -11,8 +11,10 @@
 #gameContainer{
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
-   }
-#cellContainer{
+    background-color: rgb(157, 121, 96);
+}
+
+   #cellContainer{
     font-family:'Permanent Maker' ;
     font-size: x-large;
     display: grid;
@@ -20,3 +22,9 @@
     width: 225px;
     margin: auto;
 }
+
+#restartButton{
+    background-color: cadetblue;
+    font-family: 'Courier New', Courier, monospace'
+}
+
